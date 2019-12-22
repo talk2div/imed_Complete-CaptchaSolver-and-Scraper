@@ -1,0 +1,428 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+	پورتال اداره کل تجهیزات پزشکی
+</title><meta http-equiv="Expires" content="0" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Cache-Control" content="no-cache" /><link href="/Styles/bootstrap.min.css" rel="stylesheet" /><link href="/Styles/Style.css" rel="stylesheet" /><link href="/Styles/bootstrap-rtl.css" rel="stylesheet" /><link href="/Styles/font-awesome.css" rel="stylesheet" /><link href="/Styles/font-awesome.min.css" rel="stylesheet" /><link href="../Styles/Site.css" rel="stylesheet" /><link href="../Styles/this.css" rel="stylesheet" /><link href="http://imed.ir/UI_Themes/Darya/Links_rtl.css" rel="stylesheet" />
+ 
+   <!--<style type="text/css">
+        .style11 {
+            color: #FFFFFF;
+        }
+
+        .style12 {
+            color: #FFFFFF;
+            font-weight: bold;
+        }
+
+        .style13 {
+            color: #FFFFFF;
+            font-size: 16pt;
+            font-family: Arial;
+        }
+
+        body {
+            background-color: #eaeaea;
+        }
+
+        #nav {
+            padding: 0 5px;
+        }
+
+            #nav > li {
+                border-left: 1px solid #fff;
+            }
+
+            #nav li a:hover {
+                background-color: white;
+                color: black;
+            }
+
+        .dropdown-toggle {
+            background-image: url("http://imed.ir/UI_Themes/Darya/images/arrow-2.png");
+            background-repeat: no-repeat;
+            background-position: right;
+            margin-right: 12px;
+        }
+
+        .dropdown-menu {
+            min-width: 300px;
+        }
+        #nav li a {
+    display: block;
+    height: 2em;
+    line-height: 2em;
+    padding: 0 1.2em;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: NegarFont1;
+    font-size: 12px;
+    background-color: #274185;
+}
+
+    </style>-->
+    
+</head>
+<body>
+    <div class="container-fluid ">
+
+        <div class="row">
+            <div style="background-color: #5a8bd8;">
+                <a href="http://imed.ir">
+                    <img src="../Styles/Images/HeaderNew.png" width="100%" /></a>
+                <br />
+                <br />
+                <br />
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="" >
+         
+                <div>
+   
+              
+
+                            
+                   
+				   <nav class="navbar navbar-default">
+        <div class="navbar-header">
+            <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
+        </div>
+        <div id="navbarCollapse" class="collapse navbar-collapse">
+		  <ul class="nav navbar-nav">
+<li Class="LinksLi1"> <a  href="http://imed.ir" >صفحه نخست </a></li><li  Class="dropdown LinksLi2"><a href="javascript:void(0)"class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="True" >درباره ما </a><ul class="dropdown-menu LinksUl2">
+<li Class="LinksLi33">
+ <a  href="http://imed.ir/Default.aspx?PageName=Pages&ID=90" >معرفی اداره کل </a></li><li Class="LinksLi202">
+ <a  href="http://imed.ir/Default.aspx?PageName=Pages&ID=172" >اهداف و چشم انداز </a></li><li Class="LinksLi204">
+ <a  href="http://imed.ir/Default.aspx?PageName=Pages&ID=173" >ساختار سازمانی </a></li><li Class="LinksLi196">
+ <a  href="http://imed.ir/Default.aspx?PageName=Managers" >تاریخچه مدیران اداره کل </a></li><li Class="LinksLi34">
+ <a  href="http://imed.ir/Default.aspx?PageName=Pages-Inquiry-Contact" >ارتباط با اداره کل </a></li></ul></li><li  Class="dropdown LinksLi73"><a href="javascript:void(0)"class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="True" >ادارات </a><ul class="dropdown-menu LinksUl73">
+<li Class="LinksLi74">
+ <a  href="http://imed.ir/Default.aspx?PageName=Production" >اداره نظارت بر تولید و کنترل کیفی </a></li><li Class="LinksLi93">
+ <a  href="http://imed.ir/Default.aspx?PageName=Export" >اداره صادرات </a></li><li Class="LinksLi76">
+ <a  href="http://imed.ir/Default.aspx?PageName=Expert" >اداره تجهیزات پزشکی </a></li><li Class="LinksLi207">
+ <a  href="http://imed.ir/Default.aspx?PageName=Essentials" >اداره ملزومات  پزشکی </a></li><li Class="LinksLi88">
+ <a  href="http://imed.ir/Default.aspx?PageName=dental" >اداره مواد و تجهیزات دندانپزشکی </a></li><li Class="LinksLi87">
+ <a  href="http://imed.ir/Default.aspx?PageName=lab" >اداره تجهیزات و فرآورده های آزمایشگاهی  </a></li><li Class="LinksLi90">
+ <a  href="http://imed.ir/Default.aspx?PageName=engineering" >اداره نظارت بر تامین و نگهداشت </a></li><li Class="LinksLi89">
+ <a  href="http://imed.ir/Default.aspx?PageName=inspection" >اداره نظارت و بازرسی </a></li><li Class="LinksLi208">
+ <a  href="http://imed.ir/Default.aspx?PageName=Supervision-B-C" >اداره برنامه ریزی و پایش داده ها </a></li><li Class="LinksLi95">
+ <a  href="http://imed.ir/Default.aspx?PageName=RAndD" >گروه تحقیق و توسعه </a></li><li Class="LinksLi217">
+<a href="#" >دبیرخانه کمیته فنی و کمیته های تخصصی </a></li><li Class="LinksLi218">
+<a href="#" >روابط عمومی و بین الملل </a></li></ul></li><li Class="LinksLi14"> <a  href="http://imed.ir/Default.aspx?PageName=Document&doctype=0" >دستورالعمل، فرآیند و فرم ها </a></li><li  Class="dropdown LinksLi176"><a href="javascript:void(0)"class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="True" >موسسات همکار </a><ul class="dropdown-menu LinksUl176">
+<li Class="LinksLi177">
+ <a  href="http://imed.ir/Default.aspx?PageName=Table&ID=165" >موسسات صدور گواهینامه سیستم مدیریت کیفیت (CB) </a></li><li Class="LinksLi178">
+ <a  href="http://imed.ir/Default.aspx?PageName=Table&ID=166" >ارگان های مطلع (NB) </a></li><li Class="LinksLi182">
+ <a  href="http://imed.ir/Default.aspx?PageName=Pages&ID=234" >نهادهای تأیید اعتبار (نتا/AB) </a></li><li  Class="dropdown dropdown-submenu LinksLi179"">
+<a href="#"class="dropdown-toggle" data-toggle="dropdown" >آزمایشگاه‌های همکار  </a><ul class="dropdown-menu LinksUl179" > 
+<li Class="LinksLi222">
+ <a  href="https://www.fda.gov.ir/fa/%D8%A7%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%AC%D8%B9/%D8%AF%D8%A8%DB%8C%D8%B1%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87%D9%87%D8%A7%DB%8C-%D9%87%D9%85%DA%A9%D8%A7%D8%B1-%D9%88-%D9%85%D8%AC%D8%A7%D8%B2" target="_Blank">پورتال آزمایشگاه مرجع سازمان غذا و دارو  </a></li><li Class="LinksLi223">
+ <a  href="http://naciportal.isiri.gov.ir/Portal/home/?146215/%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF" target="_Blank">پورتال مرکز ملی تایید صلاحیت ایران </a></li></ul></li><li Class="LinksLi180">
+ <a  href="http://imed.ir/default.aspx?pagename=Pages-Inquiry&TableID=12" >شرکت‌های کنترل کیفی </a></li><li Class="LinksLi181">
+ <a  href="http://imed.ir/default.aspx?pagename=Pages-Inquiry&TableID=15" >خدمات پس از فروش </a></li><li Class="LinksLi219">
+ <a  href="http://imed.ir/default.aspx?pagename=Pages-Inquiry&TableID=31" >مشاورین تولید تجهیزات پزشکی </a></li></ul></li><li  Class="dropdown LinksLi35"><a href="javascript:void(0)"class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="True" >استعلام </a><ul class="dropdown-menu LinksUl35">
+<li Class="LinksLi112">
+ <a  href="http://report.imed.ir/Additionals/srchconfirmedimedcompany.aspx" target="_Blank">واردکنندگان مجاز تجهیزات پزشکی </a></li><li Class="LinksLi111">
+ <a  href="http://report.imed.ir/Additionals/prodconfirmedcmp.aspx" target="_Blank">تولیدکنندگان دارای پروانه ساخت </a></li><li Class="LinksLi214">
+ <a  href="http://report.imed.ir/additionals/export_cert.aspx" target="_Blank">صادرکنندگان دارای پروانه صادرات </a></li><li Class="LinksLi103">
+ <a  href="http://report.imed.ir/Additionals/Reg_qualityconfirmedreport.aspx" target="_Blank">فهرست تجهیزات پزشکی ثبت شده  </a></li><li Class="LinksLi107">
+ <a  href="http://report.imed.ir/Additionals/Reg_Report.aspx" target="_Blank">قیمت تجهیزات مصرفی مورد تایید جهت مراکز </a></li><li Class="LinksLi175">
+ <a  href="http://report.imed.ir/Additionals/Reg_ReportGeneral.aspx" >قیمت تجهیزات مصرفی مورد تایید جهت عموم مردم </a></li><li Class="LinksLi108">
+ <a  href="http://report.imed.ir/additionals/cmpeqpreport.aspx" target="_Blank">استعلام ترخیص اقلام مجاز تا پایان سال 1395  </a></li><li Class="LinksLi45">
+ <a  href="http://report.imed.ir/additionals/confirmeddistcmp2.aspx" >عرضه کنندگان مجاز - محدود به کالای لیست پایه </a></li><li Class="LinksLi114">
+ <a  href="http://report.imed.ir/additionals/confirmeddistcmp.aspx" target="_Blank">شرکت‌های توزیع کننده های مجاز – توزیعی و اصناف  </a></li><li Class="LinksLi109">
+ <a  href="http://imed.ir/default.aspx?pagename=Pages-Inquiry&TableID=12" target="_Blank">شرکت‌های کنترل کیفی  </a></li><li Class="LinksLi110">
+ <a  href="http://imed.ir/default.aspx?pagename=Pages-Inquiry&TableID=15" target="_Blank">خدمات پس از فروش  </a></li><li Class="LinksLi106">
+ <a  href="http://imed.ir/UserFiles/files/1/UMDNS-Code.xls" target="_Blank">آخرین فهرست کدهای UMDNS  </a></li><li Class="LinksLi172">
+ <a  href="http://imed.ir/Default.aspx?PageName=Pages&id=120" >مصوبات عمومی کمیته تشخیص مصادیق تجهیزات پزشکی </a></li><li Class="LinksLi213">
+ <a  href="http://imed.ir/default.aspx?pagename=Pages-Inquiry&TableID=30" >مجوز فروش موقت </a></li><li Class="LinksLi225">
+ <a  href="http://imed.ir/Default.aspx?PageName=Pages&ID=250" >فهرست رسمی تجهیزات پزشکی ایران </a></li></ul></li><li  Class="dropdown LinksLi85"><a href="javascript:void(0)"class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="True" >سوالات متداول </a><ul class="dropdown-menu LinksUl85">
+<li Class="LinksLi199">
+ <a  href="http://imed.ir/Default.aspx?PageName=FAQ&faqID=22" >سوالات ارزی </a></li><li Class="LinksLi200">
+ <a  href="http://imed.ir/Default.aspx?PageName=Pages&ID=171" >سایر سوالات </a></li><li Class="LinksLi226">
+ <a  href="http://imed.ir/Default.aspx?PageName=FAQ&faqID=28" >سوالات توزیع کالای مشمول دریافت ارز رسمی </a></li><li Class="LinksLi227">
+ <a  href="http://imed.ir/Default.aspx?PageName=FAQ&faqID=29" >سوالات رهگیری و ردیابی و کنترل اصالت کالاهای سلامت </a></li></ul></li><li Class="LinksLi4"> <a  href="http://imed.ir/Default.aspx?PageName=AllNews" >اخبار </a></li><li Class="LinksLi68"> <a  href="http://imed.ir/Default.aspx?PageName=ticket" >پاسخگویی الکترونیکی(تیکت) </a></li><li Class="LinksLi187"> <a  href="http://imed.ir/Default.aspx?PageName=gallery" >گالری </a></li><li Class="LinksLi201"> <a  href="http://imed.ir/Default.aspx?PageName=currency" ><span style=";padding: 0 5px;;">اخبار گمرکی و ارزی</span> </a></li><li Class="LinksLi215"> <a  href="http://imed.ir/Default.aspx?PageName=Category&ID=281" >اخبار  توزیع </a></li><li Class="LinksLi216"> <a  href="http://imed.ir/Default.aspx?PageName=Pages&ID=207" >میز خدمت الکترونیکی </a></li><li Class="LinksLi224"> <a  href="Default.aspx?PageName=Pages&ID=207" > سامانه‌ IMED </a></li><li Class="LinksLi119"> <a  href="http://imed.ir/Default.aspx?PageName=newsletter" >خبرنامه </a></li></ul>
+				   </div>
+    </nav>  
+				   
+				 
+                </div>
+            </div>
+        </div>
+        <div class="row" style="background-color: white;">
+            <div style="background-color: white; padding: 15px;">
+                <form name="aspnetForm" method="post" action="./CompanyInfoCmp.aspx?id=4nKz%2fsQFsMM%3d" id="aspnetForm" style="background-color: white;">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTUyMTY0MzE4Nw9kFgJmD2QWBAIDDxYCHgRUZXh0Bd5KPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiI+DQo8bGkgQ2xhc3M9IkxpbmtzTGkxIj4gPGEgIGhyZWY9Imh0dHA6Ly9pbWVkLmlyIiA+2LXZgdit2Ycg2YbYrtiz2KogPC9hPjwvbGk+PGxpICBDbGFzcz0iZHJvcGRvd24gTGlua3NMaTIiPjxhIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKSJjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIHJvbGU9ImJ1dHRvbiIgYXJpYS1oYXNwb3B1cD0iVHJ1ZSIgPtiv2LHYqNin2LHZhyDZhdinIDwvYT48dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUgTGlua3NVbDIiPg0KPGxpIENsYXNzPSJMaW5rc0xpMzMiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9UGFnZXMmSUQ9OTAiID7Zhdi52LHZgduMINin2K/Yp9ix2Ycg2qnZhCA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkyMDIiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9UGFnZXMmSUQ9MTcyIiA+2KfZh9iv2KfZgSDZiCDahti02YUg2KfZhtiv2KfYsiA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkyMDQiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9UGFnZXMmSUQ9MTczIiA+2LPYp9iu2KrYp9ixINiz2KfYstmF2KfZhtuMIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTE5NiI+DQogPGEgIGhyZWY9Imh0dHA6Ly9pbWVkLmlyL0RlZmF1bHQuYXNweD9QYWdlTmFtZT1NYW5hZ2VycyIgPtiq2KfYsduM2K7ahtmHINmF2K/bjNix2KfZhiDYp9iv2KfYsdmHINqp2YQgPC9hPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpMzQiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9UGFnZXMtSW5xdWlyeS1Db250YWN0IiA+2KfYsdiq2KjYp9i3INio2Kcg2KfYr9in2LHZhyDaqdmEIDwvYT48L2xpPjwvdWw+PC9saT48bGkgIENsYXNzPSJkcm9wZG93biBMaW5rc0xpNzMiPjxhIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKSJjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIHJvbGU9ImJ1dHRvbiIgYXJpYS1oYXNwb3B1cD0iVHJ1ZSIgPtin2K/Yp9ix2KfYqiA8L2E+PHVsIGNsYXNzPSJkcm9wZG93bi1tZW51IExpbmtzVWw3MyI+DQo8bGkgQ2xhc3M9IkxpbmtzTGk3NCI+DQogPGEgIGhyZWY9Imh0dHA6Ly9pbWVkLmlyL0RlZmF1bHQuYXNweD9QYWdlTmFtZT1Qcm9kdWN0aW9uIiA+2KfYr9in2LHZhyDZhti42KfYsdiqINio2LEg2KrZiNmE24zYryDZiCDaqdmG2KrYsdmEINqp24zZgduMIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTkzIj4NCiA8YSAgaHJlZj0iaHR0cDovL2ltZWQuaXIvRGVmYXVsdC5hc3B4P1BhZ2VOYW1lPUV4cG9ydCIgPtin2K/Yp9ix2Ycg2LXYp9iv2LHYp9iqIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTc2Ij4NCiA8YSAgaHJlZj0iaHR0cDovL2ltZWQuaXIvRGVmYXVsdC5hc3B4P1BhZ2VOYW1lPUV4cGVydCIgPtin2K/Yp9ix2Ycg2KrYrNmH24zYstin2Kog2b7Ysti02qnbjCA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkyMDciPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9RXNzZW50aWFscyIgPtin2K/Yp9ix2Ycg2YXZhNiy2YjZhdin2KogINm+2LLYtNqp24wgPC9hPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpODgiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9ZGVudGFsIiA+2KfYr9in2LHZhyDZhdmI2KfYryDZiCDYqtis2YfbjNiy2KfYqiDYr9mG2K/Yp9mG2b7Ysti02qnbjCA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGk4NyI+DQogPGEgIGhyZWY9Imh0dHA6Ly9pbWVkLmlyL0RlZmF1bHQuYXNweD9QYWdlTmFtZT1sYWIiID7Yp9iv2KfYsdmHINiq2KzZh9uM2LLYp9iqINmIINmB2LHYotmI2LHYr9mHINmH2KfbjCDYotiy2YXYp9uM2LTar9in2YfbjCAgPC9hPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpOTAiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9ZW5naW5lZXJpbmciID7Yp9iv2KfYsdmHINmG2LjYp9ix2Kog2KjYsSDYqtin2YXbjNmGINmIINmG2q/Zh9iv2KfYtNiqIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTg5Ij4NCiA8YSAgaHJlZj0iaHR0cDovL2ltZWQuaXIvRGVmYXVsdC5hc3B4P1BhZ2VOYW1lPWluc3BlY3Rpb24iID7Yp9iv2KfYsdmHINmG2LjYp9ix2Kog2Ygg2KjYp9iy2LHYs9uMIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTIwOCI+DQogPGEgIGhyZWY9Imh0dHA6Ly9pbWVkLmlyL0RlZmF1bHQuYXNweD9QYWdlTmFtZT1TdXBlcnZpc2lvbi1CLUMiID7Yp9iv2KfYsdmHINio2LHZhtin2YXZhyDYsduM2LLbjCDZiCDZvtin24zYtCDYr9in2K/ZhyDZh9inIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTk1Ij4NCiA8YSAgaHJlZj0iaHR0cDovL2ltZWQuaXIvRGVmYXVsdC5hc3B4P1BhZ2VOYW1lPVJBbmREIiA+2q/YsdmI2Ycg2KrYrdmC24zZgiDZiCDYqtmI2LPYudmHIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTIxNyI+DQo8YSBocmVmPSIjIiA+2K/YqNuM2LHYrtin2YbZhyDaqdmF24zYqtmHINmB2YbbjCDZiCDaqdmF24zYqtmHINmH2KfbjCDYqtiu2LXYtduMIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTIxOCI+DQo8YSBocmVmPSIjIiA+2LHZiNin2KjYtyDYudmF2YjZhduMINmIINio24zZhiDYp9mE2YXZhNmEIDwvYT48L2xpPjwvdWw+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkxNCI+IDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9RG9jdW1lbnQmZG9jdHlwZT0wIiA+2K/Ys9iq2YjYsdin2YTYudmF2YTYjCDZgdix2KLbjNmG2K8g2Ygg2YHYsdmFINmH2KcgPC9hPjwvbGk+PGxpICBDbGFzcz0iZHJvcGRvd24gTGlua3NMaTE3NiI+PGEgaHJlZj0iamF2YXNjcmlwdDp2b2lkKDApImNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgcm9sZT0iYnV0dG9uIiBhcmlhLWhhc3BvcHVwPSJUcnVlIiA+2YXZiNiz2LPYp9iqINmH2YXaqdin2LEgPC9hPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSBMaW5rc1VsMTc2Ij4NCjxsaSBDbGFzcz0iTGlua3NMaTE3NyI+DQogPGEgIGhyZWY9Imh0dHA6Ly9pbWVkLmlyL0RlZmF1bHQuYXNweD9QYWdlTmFtZT1UYWJsZSZJRD0xNjUiID7ZhdmI2LPYs9in2Kog2LXYr9mI2LEg2q/ZiNin2YfbjNmG2KfZhdmHINiz24zYs9iq2YUg2YXYr9uM2LHbjNiqINqp24zZgduM2KogKENCKSA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkxNzgiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9VGFibGUmSUQ9MTY2IiA+2KfYsdqv2KfZhiDZh9in24wg2YXYt9mE2LkgKE5CKSA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkxODIiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9UGFnZXMmSUQ9MjM0IiA+2YbZh9in2K/Zh9in24wg2KrYo9uM24zYryDYp9i52KrYqNin2LEgKNmG2KrYpy9BQikgPC9hPjwvbGk+PGxpICBDbGFzcz0iZHJvcGRvd24gZHJvcGRvd24tc3VibWVudSBMaW5rc0xpMTc5IiI+DQo8YSBocmVmPSIjImNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgPtii2LLZhdin24zYtNqv2KfZh+KAjNmH2KfbjCDZh9mF2qnYp9ixICA8L2E+PHVsIGNsYXNzPSJkcm9wZG93bi1tZW51IExpbmtzVWwxNzkiID4gDQo8bGkgQ2xhc3M9IkxpbmtzTGkyMjIiPg0KIDxhICBocmVmPSJodHRwczovL3d3dy5mZGEuZ292LmlyL2ZhLyVEOCVBNyVEOCVCMiVEOSU4NSVEOCVBNyVEQiU4QyVEOCVCNCVEQSVBRiVEOCVBNyVEOSU4Ny0lRDklODclRDglQTclREIlOEMtJUQ5JTg1JUQ4JUIxJUQ4JUFDJUQ4JUI5LyVEOCVBRiVEOCVBOCVEQiU4QyVEOCVCMSVEOCVBRSVEOCVBNyVEOSU4NiVEOSU4Ny0lRDglQTclRDglQjIlRDklODUlRDglQTclREIlOEMlRDglQjQlREElQUYlRDglQTclRDklODclRDklODclRDglQTclREIlOEMtJUQ5JTg3JUQ5JTg1JURBJUE5JUQ4JUE3JUQ4JUIxLSVEOSU4OC0lRDklODUlRDglQUMlRDglQTclRDglQjIiIHRhcmdldD0iX0JsYW5rIj7ZvtmI2LHYqtin2YQg2KLYstmF2KfbjNi02q/Yp9mHINmF2LHYrNi5INiz2KfYstmF2KfZhiDYutiw2Kcg2Ygg2K/Yp9ix2YggIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTIyMyI+DQogPGEgIGhyZWY9Imh0dHA6Ly9uYWNpcG9ydGFsLmlzaXJpLmdvdi5pci9Qb3J0YWwvaG9tZS8/MTQ2MjE1LyVEOCVBMiVEOCVCMiVEOSU4NSVEOCVBNyVEQiU4QyVEOCVCNCVEQSVBRiVEOCVBNyVEOSU4Ny0lRDglQUMlRDglQUYlREIlOEMlRDglQUYiIHRhcmdldD0iX0JsYW5rIj7ZvtmI2LHYqtin2YQg2YXYsdqp2LIg2YXZhNuMINiq2KfbjNuM2K8g2LXZhNin2K3bjNiqINin24zYsdin2YYgPC9hPjwvbGk+PC91bD48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTE4MCI+DQogPGEgIGhyZWY9Imh0dHA6Ly9pbWVkLmlyL2RlZmF1bHQuYXNweD9wYWdlbmFtZT1QYWdlcy1JbnF1aXJ5JlRhYmxlSUQ9MTIiID7YtNix2qnYquKAjNmH2KfbjCDaqdmG2KrYsdmEINqp24zZgduMIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTE4MSI+DQogPGEgIGhyZWY9Imh0dHA6Ly9pbWVkLmlyL2RlZmF1bHQuYXNweD9wYWdlbmFtZT1QYWdlcy1JbnF1aXJ5JlRhYmxlSUQ9MTUiID7Yrtiv2YXYp9iqINm+2LMg2KfYsiDZgdix2YjYtCA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkyMTkiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9kZWZhdWx0LmFzcHg/cGFnZW5hbWU9UGFnZXMtSW5xdWlyeSZUYWJsZUlEPTMxIiA+2YXYtNin2YjYsduM2YYg2KrZiNmE24zYryDYqtis2YfbjNiy2KfYqiDZvtiy2LTaqduMIDwvYT48L2xpPjwvdWw+PC9saT48bGkgIENsYXNzPSJkcm9wZG93biBMaW5rc0xpMzUiPjxhIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKSJjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIHJvbGU9ImJ1dHRvbiIgYXJpYS1oYXNwb3B1cD0iVHJ1ZSIgPtin2LPYqti52YTYp9mFIDwvYT48dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUgTGlua3NVbDM1Ij4NCjxsaSBDbGFzcz0iTGlua3NMaTExMiI+DQogPGEgIGhyZWY9Imh0dHA6Ly9yZXBvcnQuaW1lZC5pci9BZGRpdGlvbmFscy9zcmNoY29uZmlybWVkaW1lZGNvbXBhbnkuYXNweCIgdGFyZ2V0PSJfQmxhbmsiPtmI2KfYsdiv2qnZhtmG2K/ar9in2YYg2YXYrNin2LIg2KrYrNmH24zYstin2Kog2b7Ysti02qnbjCA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkxMTEiPg0KIDxhICBocmVmPSJodHRwOi8vcmVwb3J0LmltZWQuaXIvQWRkaXRpb25hbHMvcHJvZGNvbmZpcm1lZGNtcC5hc3B4IiB0YXJnZXQ9Il9CbGFuayI+2KrZiNmE24zYr9qp2YbZhtiv2q/Yp9mGINiv2KfYsdin24wg2b7YsdmI2KfZhtmHINiz2KfYrtiqIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTIxNCI+DQogPGEgIGhyZWY9Imh0dHA6Ly9yZXBvcnQuaW1lZC5pci9hZGRpdGlvbmFscy9leHBvcnRfY2VydC5hc3B4IiB0YXJnZXQ9Il9CbGFuayI+2LXYp9iv2LHaqdmG2YbYr9qv2KfZhiDYr9in2LHYp9uMINm+2LHZiNin2YbZhyDYtdin2K/Ysdin2KogPC9hPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpMTAzIj4NCiA8YSAgaHJlZj0iaHR0cDovL3JlcG9ydC5pbWVkLmlyL0FkZGl0aW9uYWxzL1JlZ19xdWFsaXR5Y29uZmlybWVkcmVwb3J0LmFzcHgiIHRhcmdldD0iX0JsYW5rIj7ZgdmH2LHYs9iqINiq2KzZh9uM2LLYp9iqINm+2LLYtNqp24wg2KvYqNiqINi02K/ZhyAgPC9hPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpMTA3Ij4NCiA8YSAgaHJlZj0iaHR0cDovL3JlcG9ydC5pbWVkLmlyL0FkZGl0aW9uYWxzL1JlZ19SZXBvcnQuYXNweCIgdGFyZ2V0PSJfQmxhbmsiPtmC24zZhdiqINiq2KzZh9uM2LLYp9iqINmF2LXYsdmB24wg2YXZiNix2K8g2KrYp9uM24zYryDYrNmH2Kog2YXYsdin2qnYsiA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkxNzUiPg0KIDxhICBocmVmPSJodHRwOi8vcmVwb3J0LmltZWQuaXIvQWRkaXRpb25hbHMvUmVnX1JlcG9ydEdlbmVyYWwuYXNweCIgPtmC24zZhdiqINiq2KzZh9uM2LLYp9iqINmF2LXYsdmB24wg2YXZiNix2K8g2KrYp9uM24zYryDYrNmH2Kog2LnZhdmI2YUg2YXYsdiv2YUgPC9hPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpMTA4Ij4NCiA8YSAgaHJlZj0iaHR0cDovL3JlcG9ydC5pbWVkLmlyL2FkZGl0aW9uYWxzL2NtcGVxcHJlcG9ydC5hc3B4IiB0YXJnZXQ9Il9CbGFuayI+2KfYs9iq2LnZhNin2YUg2KrYsdiu24zYtSDYp9mC2YTYp9mFINmF2KzYp9iyINiq2Kcg2b7Yp9uM2KfZhiDYs9in2YQgMTM5NSAgPC9hPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpNDUiPg0KIDxhICBocmVmPSJodHRwOi8vcmVwb3J0LmltZWQuaXIvYWRkaXRpb25hbHMvY29uZmlybWVkZGlzdGNtcDIuYXNweCIgPti52LHYttmHINqp2YbZhtiv2q/Yp9mGINmF2KzYp9iyIC0g2YXYrdiv2YjYryDYqNmHINqp2KfZhNin24wg2YTbjNiz2Kog2b7Yp9uM2YcgPC9hPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpMTE0Ij4NCiA8YSAgaHJlZj0iaHR0cDovL3JlcG9ydC5pbWVkLmlyL2FkZGl0aW9uYWxzL2NvbmZpcm1lZGRpc3RjbXAuYXNweCIgdGFyZ2V0PSJfQmxhbmsiPti02LHaqdiq4oCM2YfYp9uMINiq2YjYstuM2Lkg2qnZhtmG2K/ZhyDZh9in24wg2YXYrNin2LIg4oCTINiq2YjYstuM2LnbjCDZiCDYp9i12YbYp9mBICA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkxMDkiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9kZWZhdWx0LmFzcHg/cGFnZW5hbWU9UGFnZXMtSW5xdWlyeSZUYWJsZUlEPTEyIiB0YXJnZXQ9Il9CbGFuayI+2LTYsdqp2KrigIzZh9in24wg2qnZhtiq2LHZhCDaqduM2YHbjCAgPC9hPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpMTEwIj4NCiA8YSAgaHJlZj0iaHR0cDovL2ltZWQuaXIvZGVmYXVsdC5hc3B4P3BhZ2VuYW1lPVBhZ2VzLUlucXVpcnkmVGFibGVJRD0xNSIgdGFyZ2V0PSJfQmxhbmsiPtiu2K/Zhdin2Kog2b7YsyDYp9iyINmB2LHZiNi0ICA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkxMDYiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9Vc2VyRmlsZXMvZmlsZXMvMS9VTUROUy1Db2RlLnhscyIgdGFyZ2V0PSJfQmxhbmsiPtii2K7YsduM2YYg2YHZh9ix2LPYqiDaqdiv2YfYp9uMIFVNRE5TICA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkxNzIiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9UGFnZXMmaWQ9MTIwIiA+2YXYtdmI2KjYp9iqINi52YXZiNmF24wg2qnZhduM2KrZhyDYqti02K7bjNi1INmF2LXYp9iv24zZgiDYqtis2YfbjNiy2KfYqiDZvtiy2LTaqduMIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTIxMyI+DQogPGEgIGhyZWY9Imh0dHA6Ly9pbWVkLmlyL2RlZmF1bHQuYXNweD9wYWdlbmFtZT1QYWdlcy1JbnF1aXJ5JlRhYmxlSUQ9MzAiID7Zhdis2YjYsiDZgdix2YjYtCDZhdmI2YLYqiA8L2E+PC9saT48bGkgQ2xhc3M9IkxpbmtzTGkyMjUiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9UGFnZXMmSUQ9MjUwIiA+2YHZh9ix2LPYqiDYsdiz2YXbjCDYqtis2YfbjNiy2KfYqiDZvtiy2LTaqduMINin24zYsdin2YYgPC9hPjwvbGk+PC91bD48L2xpPjxsaSAgQ2xhc3M9ImRyb3Bkb3duIExpbmtzTGk4NSI+PGEgaHJlZj0iamF2YXNjcmlwdDp2b2lkKDApImNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgcm9sZT0iYnV0dG9uIiBhcmlhLWhhc3BvcHVwPSJUcnVlIiA+2LPZiNin2YTYp9iqINmF2KrYr9in2YjZhCA8L2E+PHVsIGNsYXNzPSJkcm9wZG93bi1tZW51IExpbmtzVWw4NSI+DQo8bGkgQ2xhc3M9IkxpbmtzTGkxOTkiPg0KIDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9RkFRJmZhcUlEPTIyIiA+2LPZiNin2YTYp9iqINin2LHYstuMIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTIwMCI+DQogPGEgIGhyZWY9Imh0dHA6Ly9pbWVkLmlyL0RlZmF1bHQuYXNweD9QYWdlTmFtZT1QYWdlcyZJRD0xNzEiID7Ys9in24zYsSDYs9mI2KfZhNin2KogPC9hPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpMjI2Ij4NCiA8YSAgaHJlZj0iaHR0cDovL2ltZWQuaXIvRGVmYXVsdC5hc3B4P1BhZ2VOYW1lPUZBUSZmYXFJRD0yOCIgPtiz2YjYp9mE2KfYqiDYqtmI2LLbjNi5INqp2KfZhNin24wg2YXYtNmF2YjZhCDYr9ix24zYp9mB2Kog2KfYsdiyINix2LPZhduMIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTIyNyI+DQogPGEgIGhyZWY9Imh0dHA6Ly9pbWVkLmlyL0RlZmF1bHQuYXNweD9QYWdlTmFtZT1GQVEmZmFxSUQ9MjkiID7Ys9mI2KfZhNin2Kog2LHZh9qv24zYsduMINmIINix2K/bjNin2KjbjCDZiCDaqdmG2KrYsdmEINin2LXYp9mE2Kog2qnYp9mE2KfZh9in24wg2LPZhNin2YXYqiA8L2E+PC9saT48L3VsPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpNCI+IDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9QWxsTmV3cyIgPtin2K7YqNin2LEgPC9hPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpNjgiPiA8YSAgaHJlZj0iaHR0cDovL2ltZWQuaXIvRGVmYXVsdC5hc3B4P1BhZ2VOYW1lPXRpY2tldCIgPtm+2KfYs9iu2q/ZiNuM24wg2KfZhNqp2KrYsdmI2YbbjNqp24wo2KrbjNqp2KopIDwvYT48L2xpPjxsaSBDbGFzcz0iTGlua3NMaTE4NyI+IDxhICBocmVmPSJodHRwOi8vaW1lZC5pci9EZWZhdWx0LmFzcHg/UGFnZU5hbWU9Z2FsbGVyeSIgPtqv2KfZhNix24wgPC9hPjwvbGk+PGxpIENsYXNzPSJMaW5rc0xpMjAxIj4gPGEg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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1E267591" />
+                    <div style="background-color: white;">
+                        
+    
+<fieldset>
+<table width="100%" cellpadding="3" cellspacing="3">
+    <tr>
+        <td width="150px">
+
+            <b>نام شرکت :</b></td>
+        <td width="400px">
+
+            <span id="ctl00_MainContent_CompanyInfoControl_lbl_CmpName">ARTEMIS C.F.Z CORP</span>
+
+        </td>
+        <td width="150px">
+
+            <b>نام شرکت به لاتین :</b></td>
+        <td>
+
+            <span id="ctl00_MainContent_CompanyInfoControl_lbl_CmpNameLatin">ARTEMIS C.F.Z CORP</span>
+        </td>
+    </tr>
+    <tr>
+        <td>
+
+            <b>شناسه ملی :</b></td>
+        <td>
+
+            <span id="ctl00_MainContent_CompanyInfoControl_lbl_CmpNationalId">10862058805</span>
+        </td>
+        <td>
+
+            <b>نام مدیرعامل :</b></td>
+        <td>
+
+            <span id="ctl00_MainContent_CompanyInfoControl_lbl_CEO">سیدجعفر تهرانی نژاد</span>
+        </td>
+    </tr>
+    <tr>
+        <td>
+
+            <b>شماره ثبت :</b></td>
+        <td>
+
+            <span id="ctl00_MainContent_CompanyInfoControl_lbl_RegisterNo">1149</span>
+        </td>
+        <td>
+
+            
+        </td>
+        <td>
+
+            
+        </td>
+    </tr>
+    <tr>
+        <td>
+
+            <b>محل ثبت :</b></td>
+        <td colspan="1">
+
+            <span id="ctl00_MainContent_CompanyInfoControl_lbl_RegisterAddress">چابهار / استان سيستان و بلوچستان</span>
+        </td>
+         <td>
+
+            <b>تاریخ ثبت :</b></td>
+        <td>
+
+            <span id="ctl00_MainContent_CompanyInfoControl_lbl_RegisterDate">1386/04/23</span>
+        </td>
+    </tr>
+    <tr>
+        <td>
+
+            <b>ملیت شرکت :</b></td>
+        <td>
+
+            <span id="ctl00_MainContent_CompanyInfoControl_lbl_Nationality"></span>
+        </td>
+        
+        
+    </tr>
+    <tr>
+        <td>
+
+            <b>زمینه فعالیت شرکت :</b></td>
+        <td>
+
+            <span id="ctl00_MainContent_CompanyInfoControl_lbl_CmpActivityType">توزیع سراسری / ثبت / واردات ثبتی / توزیع استانی</span>
+        </td>
+        <td>
+
+            
+        </td>
+        <td>
+
+            
+        </td>
+    </tr>
+</table>
+</fieldset>
+<fieldset><legend>آدرس دفتر مرکزی</legend>
+    <table width="100%" cellpadding="3" cellspacing="3">
+        <tr>
+            <td width="150px">
+
+                <b>کد پستی :</b></td>
+            <td width="400px">
+
+                <span id="ctl00_MainContent_CompanyInfoControl_lbl_PostalCode">9971764484</span>
+
+            </td>
+            <td width="150px">
+
+                <b>استان / شهر :</b></td>
+            <td>
+
+                <span id="ctl00_MainContent_CompanyInfoControl_lbl_City">استان سيستان و بلوچستان / چابهار</span>
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+
+                <b>آدرس پستی :</b></td>
+            <td colspan="3">
+
+                <span id="ctl00_MainContent_CompanyInfoControl_lbl_PostalAddress">منطقه آزاد چابهار-فاز دو كارگاهی- سوله شماره 056-1</span>
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+
+                <b>تلفن :</b></td>
+            <td>
+
+                <span id="ctl00_MainContent_CompanyInfoControl_lbl_Phone">05435314119</span>
+
+            </td>
+            <td>
+
+                <b>فاکس :</b></td>
+            <td>
+
+                <span id="ctl00_MainContent_CompanyInfoControl_lbl_Fax">05435314120</span>
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+
+                <b>صندوق پستی :</b></td>
+            <td>
+
+                <span id="ctl00_MainContent_CompanyInfoControl_lbl_PostalBox"></span>
+
+            </td>
+            <td>
+
+                <b>وب سایت :</b></td>
+            <td>
+
+                <span id="ctl00_MainContent_CompanyInfoControl_lbl_Web"></span>
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+
+                <b>ایمیل :</b></td>
+            <td>
+
+                <span id="ctl00_MainContent_CompanyInfoControl_lbl_Email">info@armeti.ir</span>
+
+            </td>
+            <td>
+
+                &nbsp;</td>
+            <td>
+
+                &nbsp;</td>
+        </tr>
+    </table>
+</fieldset>
+<fieldset><legend>آدرس سایر دفاتر و کارخانه ها</legend>
+    <table width="100%" cellpadding="3" cellspacing="3">
+        <tr>
+            <td>
+                <span id="ctl00_MainContent_CompanyInfoControl_lbl_factory">  - منطقه آزاد چابهار-فاز دو كارگاهی- سوله شماره 056-1<br />  - منطقه آزاد چابهار-فاز دو كارگاهی- سوله شماره 056-1<br />چابهار - منطقه آزاد چابهار-فاز دو كارگاهی- سوله شماره 056-1</span>
+            </td>
+        </tr>        
+    </table>
+</fieldset>
+<fieldset><legend>اسامی هیت مدیره</legend>
+    <table width="100%" cellpadding="3" cellspacing="3">
+        <tr>
+            <td>
+                <div>
+	<table cellspacing="0" cellpadding="3" rules="cols" bordercolor="#999999" border="1" id="ctl00_MainContent_CompanyInfoControl_GV_Memeber" bgcolor="White" width="100%">
+		<tr bgcolor="#000084">
+			<th scope="col"><font color="White"><b>رديف</b></font></th><th scope="col"><font color="White"><b>نام و نام خانوادگی </b></font></th><th scope="col"><font color="White"><b>عنوان</b></font></th>
+		</tr><tr bgcolor="#EEEEEE">
+			<td><font color="Black">
+                    1
+                </font></td><td><font color="Black">سیدمرتضی تهرانی نژاد</font></td><td><font color="Black">رئیس هیئت مدیره</font></td>
+		</tr><tr bgcolor="Gainsboro">
+			<td><font color="Black">
+                    2
+                </font></td><td><font color="Black">سیدمرتضی تهرانی نژاد</font></td><td><font color="Black">رئیس هیات مدیره</font></td>
+		</tr><tr bgcolor="#EEEEEE">
+			<td><font color="Black">
+                    3
+                </font></td><td><font color="Black">سیدرضا تهرانی نژاد</font></td><td><font color="Black">عضو هیئت مدیره</font></td>
+		</tr><tr bgcolor="Gainsboro">
+			<td><font color="Black">
+                    4
+                </font></td><td><font color="Black">فاطمه السادات تهرانی نژاد</font></td><td><font color="Black">عضو هیئت مدیره</font></td>
+		</tr><tr bgcolor="#EEEEEE">
+			<td><font color="Black">
+                    5
+                </font></td><td><font color="Black">سیدرضا تهرانی نژاد</font></td><td><font color="Black">عضو هیات مدیره</font></td>
+		</tr><tr bgcolor="Gainsboro">
+			<td><font color="Black">
+                    6
+                </font></td><td><font color="Black">فاطمه السادات تهرانی نژاد</font></td><td><font color="Black">عضو هیات مدیره</font></td>
+		</tr><tr bgcolor="#EEEEEE">
+			<td><font color="Black">
+                    7
+                </font></td><td><font color="Black">سیدمحمدباقر تهرانی نژاد</font></td><td><font color="Black">نائب رئیس هیات مدیره</font></td>
+		</tr><tr bgcolor="Gainsboro">
+			<td><font color="Black">
+                    8
+                </font></td><td><font color="Black">سیدمحمدباقر تهرانی نژاد</font></td><td><font color="Black">نایب رئیس هیئت مدیره</font></td>
+		</tr>
+	</table>
+</div>
+            </td>
+        </tr>        
+    </table>
+</fieldset>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+
+
+
+
+        <div class="row" style="background-color: #DFDFDF; text-align: center">
+            <br />
+            <span style="font-size: 8pt;">کليه حقوق معنوی اين نرم افزار متعلق به اداره کل تجهيزات پزشکی وزارت بهداشت، درمان
+                    و آموزش پزشکی می باشد.</span><br />
+            <br />
+            <span style="font-size: 8pt">طراحی و توليد نرم افزار : <a href="http://noict.com" target="_blank">نوآوران فناوری اطلاعات امروز</a> </span></td>
+            <br />
+        </div>
+</body>
+</html>
